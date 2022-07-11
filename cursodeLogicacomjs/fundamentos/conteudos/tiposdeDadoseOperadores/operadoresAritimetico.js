@@ -28,3 +28,6 @@ const mutiplicação = num1*num2
 console.log(mutiplicação)
 const modulo = num1%num2
 console.log(modulo)
+
+
+console.log('oi meu nome é : '+num1+'jfkjfbkjfbkjfbkjfbjfkf')

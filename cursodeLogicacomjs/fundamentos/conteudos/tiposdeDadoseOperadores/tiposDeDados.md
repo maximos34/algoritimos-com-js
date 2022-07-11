@@ -24,6 +24,10 @@
 //////////////////////////////////////////////////////
 
                    . Operadores de Atribuição{
+                      
+                    - recebe
+                    -incremento
+                    -decremento
 
                    }
 
