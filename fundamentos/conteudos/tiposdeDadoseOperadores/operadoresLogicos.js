@@ -11,7 +11,7 @@
                 falso (false)
               }
 
-              tabela verdar {
+              tabela verdade {
               (and) &&{
               Condição 1    Condição 2   Resultado
               Verdade       Verdade        Verdade
@@ -27,7 +27,7 @@
               Falso          Verdade        Verdade
               Falso           Falso          Falso
               }
-              
+                
               (xor) ||{
               Condição 1   Condição 2    Resultado
               false        │ false      │ false │
